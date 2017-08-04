@@ -1,0 +1,16 @@
+
+body{
+  padding-top: 50px;
+}
+
+.principal {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#container {
+  min-width: 310px;
+  max-width: 800px;
+  height: 400px;
+  margin: 0 auto
+}
